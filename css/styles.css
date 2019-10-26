@@ -1,0 +1,33 @@
+#title {
+  background-color: #f54291;
+}
+h1 {
+  font-family: 'Dancing Script', cursive;
+}
+#features {
+  background-color: #ffa0d2;
+}
+#brands {
+  background-color: #fff8cd;
+}
+.navbar-brand{
+  color:white;
+  font-family: 'Cuprum', sans-serif;
+  font-size: 40px;
+}
+h3 {
+  font-family: 'Marck Script', cursive;
+  font-size: 50px;
+  position: relative;
+  left:70px;
+}
+#focus {
+  padding: 10px;
+}
+h4{
+  font-family: 'Lobster', cursive;
+  padding-left: 35px;
+}
+#focus{
+  background-color: #ffd5d5;
+}
